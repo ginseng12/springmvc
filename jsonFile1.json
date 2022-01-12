@@ -1,0 +1,10 @@
+[
+  {
+    "request": {
+      "uri": "/getJson"
+    },
+    "response": {
+       "hello" : "json1"
+      }
+    }
+]
